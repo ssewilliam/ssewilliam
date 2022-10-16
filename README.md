@@ -3,7 +3,7 @@
   Hola, nice to see you!
 </h1>
 
-I am <b>William Sserubiri</b>, <b>Full Stack Engineer</b>
+I am <b>William Sserubiri</b>
 <h3>Tools I work with</h3>
 
 <p>
